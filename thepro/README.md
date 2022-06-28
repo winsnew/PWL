@@ -1,0 +1,2 @@
+# lossany
+Aplikasi sederhana kripto
